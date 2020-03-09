@@ -62,3 +62,47 @@ runoob@runoob:~$ docker run -it nginx:latest /bin/bash
 root@b8573233d675:/# 
 ```
 
+## Docker start/stop/restart 命令
+
+[![ Docker &#x547D;&#x4EE4;&#x5927;&#x5168;](https://www.runoob.com/images/up.gif)Docker 命令大全](https://www.runoob.com/docker/docker-command-manual.html)
+
+**docker start** :启动一个或多个已经被停止的容器
+
+**docker stop** :停止一个运行中的容器
+
+**docker restart** :重启容器
+
+#### 语法
+
+```text
+docker start [OPTIONS] CONTAINER [CONTAINER...]
+```
+
+```text
+docker stop [OPTIONS] CONTAINER [CONTAINER...]
+```
+
+```text
+docker restart [OPTIONS] CONTAINER [CONTAINER...]
+```
+
+#### 实例
+
+启动已被停止的容器myrunoob
+
+```text
+docker start myrunoob
+```
+
+停止运行中的容器myrunoob
+
+```text
+docker stop myrunoob
+```
+
+重启容器myrunoob
+
+```text
+docker restart myrunoob
+```
+
