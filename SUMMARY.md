@@ -9,6 +9,7 @@
 * [Docker 容器连接](docker-rong-qi-lian-jie.md)
 * [Docker 仓库管理](docker-cang-ku-guan-li.md)
 * [Docker Dockerfile](docker-dockerfile.md)
+* [Docker Compose](docker-compose.md)
 
 ## docker命令
 
