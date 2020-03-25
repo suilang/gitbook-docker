@@ -66,7 +66,7 @@ redis
 
 在 composetest 目录中，创建一个名为的文件 Dockerfile，内容如下：
 
-```text
+```yaml
 FROM python:3.7-alpine
 WORKDIR /code
 ENV FLASK_APP app.py
