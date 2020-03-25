@@ -16,4 +16,6 @@
 * [容器生命周期管理](docker-ming-ling/rong-qi-sheng-ming-zhou-qi-guan-li.md)
 * [容器操作](docker-ming-ling/rong-qi-cao-zuo.md)
 * [容器rootfs命令](docker-ming-ling/rong-qi-rootfs-ming-ling.md)
+* [镜像仓库](docker-ming-ling/jing-xiang-cang-ku.md)
+* [本地镜像管理](docker-ming-ling/ben-di-jing-xiang-guan-li.md)
 
